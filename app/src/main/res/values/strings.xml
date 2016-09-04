@@ -2,4 +2,6 @@
     <string name="app_name">My First Self-Help App</string>
     <string name="edit_message">Enter a goal</string>
     <string name="button_send">Send</string>
+    <string name="action_favorite">Action Favorite Title</string>string>
+    <string name="action_settings">Click Action Favorite</string>string>
 </resources>
